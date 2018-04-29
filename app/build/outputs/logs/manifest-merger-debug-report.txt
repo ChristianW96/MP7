@@ -1,0 +1,149 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f8a977128cf2911b526acb557d2a9d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e52af5e945b76962540a7f0e2aeffef4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8f02dbb5268a0d2adf0a038c4a2153e7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b8686d663a11b97a865fa1cafa889ea8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\44fcdda432626139142c973bf5d51bb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3b2bb223c707a54c0b2a9759375d0230\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd8c90f23fdd9091399bc194becc7897\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fe5fcebf5a60fd37240a44a4a8d865f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\590dde194b0323beb508cadd0bf07fa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6eaaea25267c729f4a2f83a07cebcfa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fdfc7de1a0b323348445d645ef987bcf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5dbe44a504e0278331c3f73f1e5f1a6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6e3c2c0c04f5129904934e6144c9c038\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f1207c8d023ffbbb25cd8a2440f7dd12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4aebdd3096999572f23d131ac56e84a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06f092dfbc7c6d56eacb4d6ffdb7250e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\50f8206dc64adcd2cbe02006c2f8b40c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5a0142161f1f67eda8ea099d88d72ddb\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1aa332ef342d282d1156092088aa55c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8f02dbb5268a0d2adf0a038c4a2153e7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8f02dbb5268a0d2adf0a038c4a2153e7\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:7:5-12:19
+	android:supportsRtl
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.christianwilliams.cocktails.MainActivity
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:13:19-51
+	android:windowSoftInputMode
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:14:19-60
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.example.christianwilliams.cocktails.DetailActivity
+ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:20:9-61
+	android:name
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml:20:19-49
+uses-sdk
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f8a977128cf2911b526acb557d2a9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\1f8a977128cf2911b526acb557d2a9d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e52af5e945b76962540a7f0e2aeffef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e52af5e945b76962540a7f0e2aeffef4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8f02dbb5268a0d2adf0a038c4a2153e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\8f02dbb5268a0d2adf0a038c4a2153e7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b8686d663a11b97a865fa1cafa889ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\b8686d663a11b97a865fa1cafa889ea8\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\44fcdda432626139142c973bf5d51bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\44fcdda432626139142c973bf5d51bb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3b2bb223c707a54c0b2a9759375d0230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\3b2bb223c707a54c0b2a9759375d0230\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd8c90f23fdd9091399bc194becc7897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\cd8c90f23fdd9091399bc194becc7897\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fe5fcebf5a60fd37240a44a4a8d865f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fe5fcebf5a60fd37240a44a4a8d865f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\590dde194b0323beb508cadd0bf07fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\590dde194b0323beb508cadd0bf07fa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6eaaea25267c729f4a2f83a07cebcfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e6eaaea25267c729f4a2f83a07cebcfa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fdfc7de1a0b323348445d645ef987bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\fdfc7de1a0b323348445d645ef987bcf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5dbe44a504e0278331c3f73f1e5f1a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5dbe44a504e0278331c3f73f1e5f1a6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6e3c2c0c04f5129904934e6144c9c038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.0.aar\6e3c2c0c04f5129904934e6144c9c038\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f1207c8d023ffbbb25cd8a2440f7dd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\f1207c8d023ffbbb25cd8a2440f7dd12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4aebdd3096999572f23d131ac56e84a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\e4aebdd3096999572f23d131ac56e84a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06f092dfbc7c6d56eacb4d6ffdb7250e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06f092dfbc7c6d56eacb4d6ffdb7250e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\50f8206dc64adcd2cbe02006c2f8b40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\50f8206dc64adcd2cbe02006c2f8b40c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5a0142161f1f67eda8ea099d88d72ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5a0142161f1f67eda8ea099d88d72ddb\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1aa332ef342d282d1156092088aa55c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d1aa332ef342d282d1156092088aa55c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Christian\Desktop\Cocktails\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\Christian\.gradle\caches\transforms-1\files-1.1\picasso-2.71828.aar\7cecef8138ebad267b2ef8e8ddb81668\AndroidManifest.xml:9:13-64
