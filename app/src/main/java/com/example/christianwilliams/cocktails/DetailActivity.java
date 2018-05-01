@@ -59,7 +59,7 @@ public class DetailActivity extends AppCompatActivity {
 
         jsonDetailURL= jsonDURL + id;
         new JsonDetailDownloader().execute();
-        Picasso.get().load(thumb).resize(160,160)
+        Picasso.get().load(thumb).fit()
                 .into(thumbImage);
 
 
