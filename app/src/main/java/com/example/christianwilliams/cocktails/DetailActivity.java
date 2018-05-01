@@ -4,6 +4,7 @@ package com.example.christianwilliams.cocktails;
 import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
+
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -59,8 +60,7 @@ public class DetailActivity extends AppCompatActivity {
 
         jsonDetailURL= jsonDURL + id;
         new JsonDetailDownloader().execute();
-        Picasso.get().load(thumb).fit()
-                .into(thumbImage);
+        Picasso.get().load(thumb).resize(250,250).into(thumbImage);
 
 
 
