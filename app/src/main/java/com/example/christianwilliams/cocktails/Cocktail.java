@@ -31,7 +31,7 @@ public class Cocktail {
         }
 
     public Cocktail() {
-        this.Name ="";
+        this.Name = "";
         this.ID = "";
         this.Thumb ="";
     }
